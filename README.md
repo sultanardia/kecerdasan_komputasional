@@ -1,0 +1,1 @@
+# praktikum_kecerdasan_komputasional_data
